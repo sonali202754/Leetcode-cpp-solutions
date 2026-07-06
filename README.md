@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sonali202754/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sonali202754/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sonali202754/Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sonali202754/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/sonali202754/Leetcode-/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/sonali202754/Leetcode-/tree/master/0867-transpose-matrix) |
 ## Two Pointers
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/sonali202754/Leetcode-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sonali202754/Leetcode-/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sonali202754/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/sonali202754/Leetcode-/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/sonali202754/Leetcode-/tree/master/0867-transpose-matrix) |
 ## Simulation
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/sonali202754/Leetcode-/tree/master/0861-score-after-flipping-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/sonali202754/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/sonali202754/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
