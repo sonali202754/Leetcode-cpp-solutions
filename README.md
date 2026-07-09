@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sonali202754/Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/sonali202754/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sonali202754/Leetcode-/tree/master/0048-rotate-image) |
+| [0509-fibonacci-number](https://github.com/sonali202754/Leetcode-/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sonali202754/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sonali202754/Leetcode-/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sonali202754/Leetcode-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
