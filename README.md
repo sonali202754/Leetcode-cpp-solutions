@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sonali202754/Leetcode-/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/sonali202754/Leetcode-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sonali202754/Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sonali202754/Leetcode-/tree/master/0048-rotate-image) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sonali202754/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sonali202754/Leetcode-/tree/master/0509-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sonali202754/Leetcode-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
