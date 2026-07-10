@@ -15,18 +15,40 @@ public:
     //  return -1;
     // }
     // // better approch
-    int n= nums.size();
-    map<int,int>mp;
-    for(int i=0; i<n;i++){
-        mp[nums[i]]++;
-    }
-    for(auto it :mp){
-        if(it.second>n/2){
-            return it.first;
-        }
+    // int n= nums.size();
+    // map<int,int>mp;
+    // for(int i=0; i<n;i++){
+    //     mp[nums[i]]++;
+    // }
+    // for(auto it :mp){
+    //     if(it.second>n/2){
+    //         return it.first;
+    //     }
 
+    // }
+    //  return -1;
+    // optimal solution
+    int n= nums.size();
+    int count=0;
+    int ele;
+    for(int i=0; i<n; i++){
+        if(count==0){
+            count=1;
+            ele=nums[i];
+           
+        }
+        else if(nums[i]==ele){
+          count++;
+        }
+        else count--;
     }
+    int cnt1=0;
+    for(int i=0;i<n; i++){
+      if(nums[i]==ele) cnt1++;
+    }
+    if(cnt1>n/2) return ele;
      return -1;
     }
+   
 
 };
