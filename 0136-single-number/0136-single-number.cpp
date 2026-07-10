@@ -11,15 +11,22 @@ public:
         // }
         // return -1;
         //using has map better solution
-        int n=nums.size();
-        map<int,int>mp;
+        // int n=nums.size();
+        // map<int,int>mp;
+        // for(int i=0; i<n; i++){
+        //     mp[nums[i]]++;
+        // }
+        // for(auto it:mp){
+        //     if(it.second==1)
+        //     return it.first;
+        // }
+        // return -1;
+        //optimal solution
+        int xorr=0;
+        int n= nums.size();
         for(int i=0; i<n; i++){
-            mp[nums[i]]++;
+           xorr=xorr^nums[i];
         }
-        for(auto it:mp){
-            if(it.second==1)
-            return it.first;
-        }
-        return -1;
+        return xorr;
     }
 };
