@@ -19,26 +19,22 @@ public:
     
     // now use two pointer method or dutch flag method
      int n= nums.size();
-    int low=0;
-    int mid=0;
-    int hi=n-1;
-    while(mid<=hi){
+    int lo=0,mid=0,hi=n-1;
+     while(mid<=hi){
         if(nums[mid]==2){
             int temp=nums[mid];
             nums[mid]=nums[hi];
             nums[hi]=temp;
             hi--;
-
         }
         else if(nums[mid]==0){
-           int temp=nums[mid];
-           nums[mid]=nums[low];
-           nums[low]=temp;
-           low++;
-           mid++;
-
+             int temp=nums[mid];
+            nums[mid]=nums[lo];
+            nums[lo]=temp;
+            lo++;
+            mid++;
         }
         else mid++;
-    }
+     }
 }
 };
