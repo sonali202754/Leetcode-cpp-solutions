@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sonali202754/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sonali202754/Leetcode-/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sonali202754/Leetcode-/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/sonali202754/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sonali202754/Leetcode-/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sonali202754/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/sonali202754/Leetcode-/tree/master/0746-min-cost-climbing-stairs) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sonali202754/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sonali202754/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sonali202754/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
@@ -136,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/sonali202754/Leetcode-/tree/master/0844-backspace-string-compare) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sonali202754/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sonali202754/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
