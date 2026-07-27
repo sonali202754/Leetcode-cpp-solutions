@@ -1,10 +1,9 @@
 class Solution {
 public:
 int find(vector<int>&f){
-    int maxc=INT_MIN;
+    int maxc=-1;
     for(int i=0; i<256;i++){
         maxc=max(maxc,f[i]);
-        
     }
     return maxc;
 }
