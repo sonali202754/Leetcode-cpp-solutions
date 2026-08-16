@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sonali202754/Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sonali202754/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sonali202754/Leetcode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sonali202754/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sonali202754/Leetcode-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sonali202754/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sonali202754/Leetcode-/tree/master/0169-majority-element) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sonali202754/Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sonali202754/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sonali202754/Leetcode-/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/sonali202754/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sonali202754/Leetcode-/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/sonali202754/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sonali202754/Leetcode-/tree/master/0904-fruit-into-baskets) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sonali202754/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sonali202754/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
