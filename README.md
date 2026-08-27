@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sonali202754/Leetcode-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sonali202754/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sonali202754/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/sonali202754/Leetcode-/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/sonali202754/Leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [0861-score-after-flipping-matrix](https://github.com/sonali202754/Leetcode-/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/sonali202754/Leetcode-/tree/master/0867-transpose-matrix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sonali202754/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sonali202754/Leetcode-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sonali202754/Leetcode-/tree/master/0229-majority-element-ii) |
+| [0645-set-mismatch](https://github.com/sonali202754/Leetcode-/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonali202754/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sonali202754/Leetcode-/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/sonali202754/Leetcode-/tree/master/0645-set-mismatch) |
 | [0861-score-after-flipping-matrix](https://github.com/sonali202754/Leetcode-/tree/master/0861-score-after-flipping-matrix) |
 ## Binary Search
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sonali202754/Leetcode-/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sonali202754/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/sonali202754/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/sonali202754/Leetcode-/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/sonali202754/Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [2965-find-missing-and-repeated-values](https://github.com/sonali202754/Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
