@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sonali202754/Leetcode-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sonali202754/Leetcode-/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sonali202754/Leetcode-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2965-find-missing-and-repeated-values](https://github.com/sonali202754/Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sonali202754/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/sonali202754/Leetcode-/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/sonali202754/Leetcode-/tree/master/0867-transpose-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/sonali202754/Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sonali202754/Leetcode-/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/sonali202754/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sonali202754/Leetcode-/tree/master/0509-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/sonali202754/Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sonali202754/Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/sonali202754/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/sonali202754/Leetcode-/tree/master/0904-fruit-into-baskets) |
+| [2965-find-missing-and-repeated-values](https://github.com/sonali202754/Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
