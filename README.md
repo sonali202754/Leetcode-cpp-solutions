@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sonali202754/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sonali202754/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/sonali202754/Leetcode-/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/sonali202754/Leetcode-/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/sonali202754/Leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [0861-score-after-flipping-matrix](https://github.com/sonali202754/Leetcode-/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/sonali202754/Leetcode-/tree/master/0867-transpose-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sonali202754/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sonali202754/Leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sonali202754/Leetcode-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/sonali202754/Leetcode-/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
