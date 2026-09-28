@@ -1,6 +1,6 @@
 class Solution {
 public:
-int lower(vector<int>&nums,int target,int n){
+int lower(vector<int>&nums,int n,int target){
     int lo=0;
     int hi= n-1;
     int first=-1;
@@ -19,7 +19,7 @@ int lower(vector<int>&nums,int target,int n){
     return first;
 
 }
-int upper(vector<int>&nums,int target,int n){
+int upper(vector<int>&nums,int n,int target){
     int lo=0;
     int hi= n-1;
     int last=n;
@@ -37,14 +37,17 @@ int upper(vector<int>&nums,int target,int n){
     return last;
 
 }
+pair<int,int>fso(vector<int>&nums,int n,int k){
+    int lb=lower(nums,n,k);
+    if(lb==-1||nums[lb]!=k)return {-1,-1};
+    return {lb,upper(nums,n,k)-1};
+}
     vector<int> searchRange(vector<int>& nums, int target) {
     //  using lower bound and upper bound
    int n= nums.size(); 
-   int first=lower(nums,target,n);
-    if(first==-1 || nums[first]!=target) {
-         return {-1,-1}; 
-    }
-     return {first,upper(nums,target,n)-1};
+   pair<int,int> ans=fso(nums,n,target);
+
+    return {ans.first,ans.second};
 
 
     }
